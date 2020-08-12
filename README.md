@@ -1,2 +1,2 @@
-# RichGame-Server
-Server for RichGame.
+# RichGame
+A RichGame.
