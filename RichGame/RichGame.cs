@@ -11,5 +11,7 @@ namespace RichGame
         public static readonly Version Version = new Version(1, 0, 0, 0);
 
         #endregion
+        
+        
     }
 }
